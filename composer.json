@@ -12,7 +12,7 @@
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
-            "Dotsquares\\Featuredproducts\\": ""
+            "testdeveloper28\\Featuredproducts\\": ""
         }
     }
 }
